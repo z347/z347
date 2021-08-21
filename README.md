@@ -55,6 +55,8 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
+![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn)
 
 <br>
 
