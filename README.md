@@ -61,6 +61,5 @@
 <br>
 
 ### Fill free to contact with me:
-[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shylo-volodymyr)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:shulo.vova@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://telegram.im/@pro100volodymyr)
