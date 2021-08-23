@@ -63,3 +63,4 @@
 ### Fill free to contact with me:
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:shulo.vova@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://telegram.im/@pro100volodymyr)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/volodymyr.shulo/)
