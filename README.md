@@ -49,9 +49,11 @@
 
 ![Mocha](https://img.shields.io/badge/-Mocha-090909?style=for-the-badge&logo=Mocha)
 ![Chai](https://img.shields.io/badge/-Chai-090909?style=for-the-badge&logo=Chai)
+
 ![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
 ![StyleLint](https://img.shields.io/badge/-StyleLint-090909?style=for-the-badge&logo=StyleLint)
 ![Prettier](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=Prettier)
+
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
