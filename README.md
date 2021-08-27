@@ -47,6 +47,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-090909?style=for-the-badge&logo=Mocha)
 ![Chai](https://img.shields.io/badge/-Chai-090909?style=for-the-badge&logo=Chai)
 
