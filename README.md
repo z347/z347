@@ -28,17 +28,13 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=Nestjs)
 
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL)
 ![JSON](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
 
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MaterialUI)
 
@@ -47,7 +43,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Gulp.js](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
