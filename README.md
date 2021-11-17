@@ -30,7 +30,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL)
 ![JSON](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
@@ -40,12 +39,10 @@
 
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
 ![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Gulp.js](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
-![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-090909?style=for-the-badge&logo=Mocha)
 ![Chai](https://img.shields.io/badge/-Chai-090909?style=for-the-badge&logo=Chai)
 
@@ -56,8 +53,6 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
-![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn)
 
 <br>
 
